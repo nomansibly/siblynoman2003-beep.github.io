@@ -1,6 +1,6 @@
 # Sibly Noman — Engineering × Data
 
-[Visit the interactive portfolio](https://siblynoman2003-beep.github.io/)
+[Visit the interactive portfolio](https://nomansibly.github.io/)
 
 A responsive, accessible professional portfolio showcasing mechanical engineering, numerical simulation, research and project leadership.
 
